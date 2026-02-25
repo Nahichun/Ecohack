@@ -31,6 +31,7 @@
 ОСНОВНОЙ ЗАПУСК: https://ecohack.streamlit.app/
 
 ЗАПУСК С ПОМОЩЬЮ ИСХОДНОГО КОДА:
+
 Установка библиотек: pip install streamlit numpy folium streamlit-folium sentinelhub
 
 Запуск приложения: streamlit run app.py
